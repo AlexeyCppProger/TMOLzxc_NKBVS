@@ -67,8 +67,8 @@ A5 (SCL)	SCL	—
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Ваш_логин/Ваш_репозиторий.git
-   cd Ваш_репозиторий
+   git clone https://github.com/AlexeyCppProger/TMOLzxc_NKBVS.git
+   cd AlexeyCppProger
 Передатчик (ESP32)
 
 Откройте Sender/Sender.ino в Arduino IDE

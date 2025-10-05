@@ -45,7 +45,7 @@
 
 ### 1) Передатчик (ESP32 → RGB-LED)
 
-![](./esp32.png)
+![hhh](./esp32.png)
 
 ### 2) Приёмник (Arduino Uno + TCS34725 + TFT)
 

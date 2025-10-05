@@ -49,7 +49,7 @@
 
 ### 2) Приёмник (Arduino Uno + TCS34725 + TFT)
 
-![](./uno.png)
+![Элеткронная схема](https://github.com/AlexeyCppProger/TMOLzxc_NKBVS/blob/main/electronic%20circuit/uno.png)
 
 ---
 
